@@ -1,0 +1,17 @@
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.rightareadashboard, .rightareadashboards {
+    text-align: center;
+    background: #0d1d3b;
+    background-color: #0d1d3b;
+}
+
+.fieldinfo {
+    color: rgb(251,174, 44);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
