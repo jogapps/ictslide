@@ -1,5 +1,4 @@
-
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +26,7 @@
          <link rel="icon" type="image/png" href="../assets/img/icon.png">
     </head>
 
-    <body> -->
+    <body>
     <!-- <div class="preloader">
             <div class="customloader" style="width:100%; margin-top:60%;">
              <img src="assets/img/logo_green_update.png" alt="logo">
@@ -35,7 +34,7 @@
              </div>
         </div> -->
 
-<!-- <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org/", 
   "@type": "BreadcrumbList", 
@@ -116,9 +115,8 @@
 </script>
 
 </head>
-<body> -->
-<?php  include("../includes/header.php"); ?> 
-
+<body>
+<?php include("../includes/header.php"); ?>     
 <?php include("../includes/footer.php"); ?> 
 <div class="go-top"><i class="fas fa-arrow-up"></i><i class="fas fa-arrow-up"></i></div>
         <script src="../assets/js/jquery.min.js"></script>
